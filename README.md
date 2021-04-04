@@ -3,7 +3,7 @@
 Basic examples of website usage, utilizing selenium driver.
 <br/>
 <br/>
-Examples are currently available in:
+Examples currently available in:
 
 |   C #        |  Powershell   |  Javascript  |    Python     |
 |:------------:|:-------------:|:------------:|:-------------:|
