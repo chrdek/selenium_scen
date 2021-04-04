@@ -1,8 +1,7 @@
-# Multiple website test cases, scenarios using Selenium
-
-Basic examples of website usage, by utilizing selenium driver.
+# Multiple website test scenarios with Selenium
 <br/>
-<hr/>
+Basic examples of website usage, utilizing selenium driver.
+<br/>
 <br/>
 Examples are currently available in:
 
