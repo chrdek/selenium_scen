@@ -6,6 +6,5 @@ Basic examples of website usage, by utilizing selenium driver.
 <br/>
 Examples are currently available in:
 
-|:------------:|:-------------:|:------------:|:-------------:|
 |   C #        |  Powershell   |  Javascript  |    Python     |
 |:------------:|:-------------:|:------------:|:-------------:|
