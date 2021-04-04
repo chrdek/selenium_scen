@@ -5,7 +5,7 @@ Basic examples of website usage, by utilizing selenium driver.
 <hr/>
 <br/>
 Examples are currently available in:
-&nbsp;
+
 |:------------:|:-------------:|:------------:|:-------------:|
 |   C #        |  Powershell   |  Javascript  |    Python     |
 |:------------:|:-------------:|:------------:|:-------------:|
