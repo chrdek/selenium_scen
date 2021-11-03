@@ -45,7 +45,7 @@ $img = [Drawing.Bitmap]::FromStream([IO.MemoryStream][Convert]::FromBase64String
 $img.Save("$((Resolve-Path ".").Path)\website_shot.png");
 
 # add timestamping info/watermark to screenshot
-Add-ImageWaterMark -image "$((Resolve-Path ".").Path)\website_shot.png" -signStr "$(Get-Date -Format "hh:mm:ss::ms  yyyy-mm-dd") Digest: $(Convert-NameToMD5 -imgInput ".\wesbite_shot.png")" -defaultoffset 350 -fntsize 12.0 -ovr
+Add-ImageWaterMark -image "$((Resolve-Path ".").Path)\website_shot.png" -signStr "$(Get-Date -Format "hh:mm:ss::ms  yyyy-MM-dd") Digest: $(Convert-NameToMD5 -imgInput ".\wesbite_shot.png")" -defaultoffset 350 -fntsize 12.0 -ovr
 
 # close all and exit browser
 Start-Sleep -Milliseconds 1500;
